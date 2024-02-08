@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T21:07:23.378Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7ZfMdRf1i2WjMrsqH9tq" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T21:39:59.468Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fhWM9F52OEFMcWRRh0hD" version="23.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="19GAgHuE4jPKgQZACqqg-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-0" target="19GAgHuE4jPKgQZACqqg-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19GAgHuE4jPKgQZACqqg-0" value="AWS S3 Bucket" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="19GAgHuE4jPKgQZACqqg-0" value="AWS S3 Bucket" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="19GAgHuE4jPKgQZACqqg-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-2" target="19GAgHuE4jPKgQZACqqg-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19GAgHuE4jPKgQZACqqg-2" value="AWS SageMaker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="19GAgHuE4jPKgQZACqqg-2" value="AWS SageMaker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="19GAgHuE4jPKgQZACqqg-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-4" target="19GAgHuE4jPKgQZACqqg-5">
@@ -142,7 +142,7 @@
         <mxCell id="19GAgHuE4jPKgQZACqqg-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-63" target="19GAgHuE4jPKgQZACqqg-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19GAgHuE4jPKgQZACqqg-63" value="(The worker / User)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="19GAgHuE4jPKgQZACqqg-63" value="(The worker / User)" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="19GAgHuE4jPKgQZACqqg-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-64" target="19GAgHuE4jPKgQZACqqg-65">
@@ -210,7 +210,7 @@
         <mxCell id="19GAgHuE4jPKgQZACqqg-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-88" target="19GAgHuE4jPKgQZACqqg-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19GAgHuE4jPKgQZACqqg-88" value="AWS SageMaker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="19GAgHuE4jPKgQZACqqg-88" value="AWS SageMaker" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="19GAgHuE4jPKgQZACqqg-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-89" target="19GAgHuE4jPKgQZACqqg-64">
@@ -264,7 +264,7 @@
         <mxCell id="19GAgHuE4jPKgQZACqqg-115" value="Click" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="388" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="19GAgHuE4jPKgQZACqqg-116" value="(Complete the labeling task)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="19GAgHuE4jPKgQZACqqg-116" value="(Complete the labeling task)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1160" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="19GAgHuE4jPKgQZACqqg-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="19GAgHuE4jPKgQZACqqg-70" target="19GAgHuE4jPKgQZACqqg-116">
