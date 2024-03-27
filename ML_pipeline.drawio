@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T21:06:20.666Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HQgPlGehzfi7bqeDvTHM" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T21:10:47.600Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="P5d2suEdQuA1o6-MnShy" version="24.2.0" type="github">
   <diagram name="Page-1" id="yhfcxGiVq9Wl0cgUhOVS">
     <mxGraphModel dx="2242" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="878" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AxbKHbF7480Bbhm4Uvbl-13" value="&lt;span style=&quot;background-color: rgb(255, 153, 51);&quot;&gt;AWS S3&lt;/span&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="640" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="646" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AxbKHbF7480Bbhm4Uvbl-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="1000" height="180" as="geometry" />
@@ -88,6 +88,21 @@
             <mxPoint x="790" y="282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="Raw Data" placeholders="1" name="Variable" id="AxbKHbF7480Bbhm4Uvbl-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="560" y="260" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Raw Data" placeholders="1" name="Variable" id="AxbKHbF7480Bbhm4Uvbl-35">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="720" y="260" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Datasets" placeholders="1" name="Variable" id="AxbKHbF7480Bbhm4Uvbl-36">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="720" y="285" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
